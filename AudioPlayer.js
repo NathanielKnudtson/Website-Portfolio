@@ -12,7 +12,7 @@ const playList = [
         songTitle: "In the Rain", 
         songArtist: null,
         songAudio: "AudioFiles/Lost_in_the_Rain.wav",
-        songCoverArt: "Images/pic2.jpeg"
+        songCoverArt: null,
     },
     { 
         id: 2,
